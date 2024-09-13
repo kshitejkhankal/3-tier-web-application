@@ -4,5 +4,4 @@ resource "aws_route_table" "terraform-pub-sub-rt" {
      tags = {
        "Name"="terraform-pub-sub-rt"
      }
-  
 }
